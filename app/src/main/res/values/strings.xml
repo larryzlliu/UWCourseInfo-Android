@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UW Course Info</string>
+    <string name="course_code">ex. ECON 101</string>
+    <string name="search">Search</string>
+    <string name="class_info">Class Info</string>
+    <string name="credit">Credit:</string>
+    <string name="description">Description:</string>
+</resources>
