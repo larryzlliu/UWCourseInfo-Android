@@ -4,14 +4,14 @@ A work-in-progress Android app that allows the user to search courses from Unive
 
 ## Motivation
 
-Inspired by UWCourseBot, a project started at ENGHack 16 with a group of friends.
+Inspired by UWCourseBot, a project started at ENGHack 16 with a group of friends.  
 UWCourse Bot Repo: https://github.com/nathanliu1/UWCourseBot
 
 ## Usage
 
 Search for any valid courses run by the University of Waterloo.
 - Send API requests to fetch related information about the search
-- Parses the JSON return into viewable data for the user in the reply.
+- Parses the JSON return into viewable data for the user in the reply
 - Some sample inputs:
 	* ECON 101
 	* CS 246
@@ -23,5 +23,5 @@ Search for any valid courses run by the University of Waterloo.
 
 ## API Reference
 
-All API calls are made towards the University of Waterloo Open Data API.
+All API calls are made towards the University of Waterloo Open Data API.  
 See [Documentation](https://github.com/uWaterloo/api-documentation) for more information.
